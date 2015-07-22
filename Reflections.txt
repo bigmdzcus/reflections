@@ -11,3 +11,11 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
+
+How do the diagrams help you visualize the branch structure?
+help to visualiza and understand better the flow of the commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging 2 branches you will have changes made from 2 different participants int he code writing
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
